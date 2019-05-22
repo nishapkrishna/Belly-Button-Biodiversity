@@ -20,3 +20,14 @@ echo "web: gunicorn app:app" > Procfile/
 git add Procfile/
 web: gunicorn app:app
 
+pip install -r requirements.txt before you start your server.
+
+
+Use console.log inside of your JavaScript code to see what your data looks like at each step.
+
+
+Refer to the Plotly.js Documentation when building the plots.
+
+
+
+
